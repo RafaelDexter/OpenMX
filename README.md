@@ -24,7 +24,7 @@ A versão mais recente (05/2016) é a **3.8** e pode ser baixada diretamente do 
 
 Caso não consiga acessar o site, você pode estar fazendo o *download* deste repositório:
 
-:octocat: [OpenMX](https://github.com/RafaelDexter/OpenMX/archive/master.zip)
+:floppy_disk: não disponível ainda!  [OpenMX]()
 
 ## Configuração
 
